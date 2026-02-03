@@ -1,4 +1,4 @@
-# Patch Notes: Fix crash during early game initialization (Localization / PlatformPrefs NRE)
+# Patch Notes: Fix crash during early game initialization
 
 ## Symptoms
 
